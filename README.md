@@ -50,9 +50,9 @@ http://localhost:8080/jsp/time
 ---
 ### 🔥 Features
 
-✅ Supports JSP rendering
-✅ Serves static files
-✅ Simple web server built with Spring Boot
+- ✅ Supports JSP rendering
+- ✅ Serves static files
+- ✅ Simple web server built with Spring Boot
 ---
 ### 📜 License
 
