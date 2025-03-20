@@ -1,7 +1,6 @@
 ## Spring WebServer Demo
 
 ### 📌 Project Overview
-
 This project is a demo web server designed to serve JSP and static files.
 It is built with Spring Boot and provides a simple way to handle client requests.
 ---
