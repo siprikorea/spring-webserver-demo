@@ -17,10 +17,11 @@ spring-webserver-demo/
 │── src/
 │   ├── main/
 │   │   ├── java/com/siprikorea/webserver/
-│   │   │   ├── ClientController.java  # Handles client requests
+│   │   │   ├── JspController.java  # Handles JSP requests
 │   │   ├── resources/
 │   │   │   ├── static/  # Static resources (CSS, JS, images, etc.)
-│   │   │   ├── templates/  # JSP files
+│   │   │   ├── templates/
+│   │   ├── webapp/WEB-INF/jsp # JSP resources
 │── build.gradle  # Gradle project configuration
 │── settings.gradle  # Gradle settings
 │── README.md  # Project documentation

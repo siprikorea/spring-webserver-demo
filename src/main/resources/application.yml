@@ -1,7 +1,4 @@
 spring:
-  application:
-    name: inihub.service.client
-
   mvc:
     view:
       prefix: /WEB-INF/jsp/

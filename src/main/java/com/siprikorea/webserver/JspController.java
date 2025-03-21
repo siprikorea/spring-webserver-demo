@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 @RequestMapping("/jsp")
-public class ClientController {
+public class JspController {
     @RequestMapping("/{path}/**")
     public String process(HttpServletRequest request) {
         String path = request.getRequestURI();
