@@ -5,11 +5,11 @@ This project is a demo web server designed to serve JSP and static files.
 It is built with Spring Boot and provides a simple way to handle client requests.
 
 ## ⚙️ Tech Stack
-- Java 17+
-- Spring Boot
-- Jakarta Servlet
-- Apache Tomcat (embedded)
-- Gradle
+* Java 17+
+* Spring Boot
+* Jakarta Servlet
+* Apache Tomcat (embedded)
+* Gradle
 
 ## 📂 Project Structure
 ```
@@ -39,20 +39,20 @@ cd spring-webserver-demo
 ./gradlew bootRun
 ```
 3️⃣ Access the Server
-- Static File Request:
+* Static File Request:
 ```
 http://localhost:8080/index.html
 ```
-- JSP Request:
+* JSP Request:
 ```
 http://localhost:8080/jsp/time
 ```
 
 ## 🔥 Features
 
-- ✅ Supports JSP rendering
-- ✅ Serves static files
-- ✅ Simple web server built with Spring Boot
+* Supports JSP rendering
+* Serves static files
+* Simple web server built with Spring Boot
 
 ## 📜 License
 
