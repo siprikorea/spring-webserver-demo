@@ -1,17 +1,17 @@
-## Spring WebServer Demo
+# Spring WebServer Demo
 
-### 📌 Project Overview
+## 📌 Project Overview
 This project is a demo web server designed to serve JSP and static files.
 It is built with Spring Boot and provides a simple way to handle client requests.
----
-### ⚙️ Tech Stack
+
+## ⚙️ Tech Stack
 - Java 17+
 - Spring Boot
 - Jakarta Servlet
 - Apache Tomcat (embedded)
 - Gradle
----
-### 📂 Project Structure
+
+## 📂 Project Structure
 ```
 spring-webserver-demo/
 │── src/
@@ -26,8 +26,8 @@ spring-webserver-demo/
 │── settings.gradle  # Gradle settings
 │── README.md  # Project documentation
 ```
----
-### 🚀 How to Run
+
+## 🚀 How to Run
 
 1️⃣ Clone the Project
 ```shell
@@ -47,13 +47,13 @@ http://localhost:8080/index.html
 ```
 http://localhost:8080/jsp/time
 ```
----
-### 🔥 Features
+
+## 🔥 Features
 
 - ✅ Supports JSP rendering
 - ✅ Serves static files
 - ✅ Simple web server built with Spring Boot
----
-### 📜 License
+
+## 📜 License
 
 This project is licensed under the MIT License.
